@@ -41,6 +41,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "08dfc689cccfaf25dc35661f2d19f2712f6b9987a1664f6406f6f6ee33d44567"
+      },
+      "localizedDisplayNames": {
+        "ar": "آغاتي",
+        "en": "Aghati",
+        "fa": "آقاتی",
+        "tr": "Ağati"
       }
     },
     {
@@ -68,6 +74,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "9f6d5df090a5dcee1fd830f9221f71a75c7211e569915611f9185ac73b3cf812"
+      },
+      "localizedDisplayNames": {
+        "ar": "قلوش",
+        "en": "Ghalwash",
+        "fa": "قلوش",
+        "tr": "Galvaş"
       }
     },
     {
@@ -95,6 +107,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "3ef0c7e89f1e28e83654298da9d494d6c86be8946bcf1e158d6022b955b5edf7"
+      },
+      "localizedDisplayNames": {
+        "ar": "كاظم زاده",
+        "en": "Kazem Zadeh",
+        "fa": "کاظم‌زاده",
+        "tr": "Kazımzade"
       }
     },
     {
@@ -122,6 +140,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "93f77cd4573e6a3c935ce888c030a6cfa01d8370824cadd41dfc8d1ef72535b8"
+      },
+      "localizedDisplayNames": {
+        "ar": "مؤذن زاده",
+        "en": "Moazzen Zadeh",
+        "fa": "مؤذن‌زاده",
+        "tr": "Müezzinzade"
       }
     },
     {
@@ -149,6 +173,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "215175adc4eb42a5d4a426e10d6587bf190a31ca7f38a1e16b44d753472d0a53"
+      },
+      "localizedDisplayNames": {
+        "ar": "رضائيان",
+        "en": "Rezaeian",
+        "fa": "رضاییان",
+        "tr": "Rezaiyan"
       }
     },
     {
@@ -176,6 +206,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "8319689e68b095352ba7007ca204a9bf5805a95b3c0baa0992ac08884cdc81b5"
+      },
+      "localizedDisplayNames": {
+        "ar": "سليمي",
+        "en": "Salimi",
+        "fa": "سلیمی",
+        "tr": "Selimi"
       }
     },
     {
@@ -203,6 +239,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "0ac3a12c2f24d770576073b6083724158fe059a9c419bbe38e1315ab0dc1b291"
+      },
+      "localizedDisplayNames": {
+        "ar": "شريف",
+        "en": "Sharif",
+        "fa": "شریف",
+        "tr": "Şerif"
       }
     },
     {
@@ -230,6 +272,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "e5d306f33bf65ad03a73b1b0577aaf9a6e06a7b7d8d7883060c84a585f5aacff"
+      },
+      "localizedDisplayNames": {
+        "ar": "صبح دل",
+        "en": "Sobhdel",
+        "fa": "صبح‌دل",
+        "tr": "Sobhdel"
       }
     },
     {
@@ -257,6 +305,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "832a6933995033f483fef22628690052d7cdd16fc201139d938b773eaa45cb1d"
+      },
+      "localizedDisplayNames": {
+        "ar": "توخي",
+        "en": "Tookhi",
+        "fa": "توخی",
+        "tr": "Tuhi"
       }
     },
     {
@@ -284,6 +338,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "d9d95dafe60152cdf05894c305e150185c1f997f73a257fb34f9b6d8236f9285"
+      },
+      "localizedDisplayNames": {
+        "ar": "عبد الباسط",
+        "en": "Abdul Basit",
+        "fa": "عبدالباسط",
+        "tr": "Abdülbasit"
       }
     },
     {
@@ -311,6 +371,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "6be5c8e3af7de993aa2c7834fdfc6f413732730b60f1316c9ae2d103af2dbbd8"
+      },
+      "localizedDisplayNames": {
+        "ar": "عبد الغفار",
+        "en": "Abdul Ghaffar",
+        "fa": "عبدالغفار",
+        "tr": "Abdülgaffar"
       }
     },
     {
@@ -338,6 +404,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "10d18c207730c56da2c61c9456038c5ab033a6173ad2b2983210f018424aff0d"
+      },
+      "localizedDisplayNames": {
+        "ar": "عبد الحكم",
+        "en": "Abdul Hakam",
+        "fa": "عبدالحکم",
+        "tr": "Abdülhakem"
       }
     },
     {
@@ -365,6 +437,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "f2469790a4b794ebf1ce0912b5b939a3b1888801efc5dad8a9d58932c53e030d"
+      },
+      "localizedDisplayNames": {
+        "ar": "أذان الأقصى",
+        "en": "Adhan Alaqsa",
+        "fa": "اذان الاقصی",
+        "tr": "Aksa Ezanı"
       }
     },
     {
@@ -392,6 +470,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "afd30839beeae8807625f8305d66671f427f79ac9fbcfacc6074af50a3517669"
+      },
+      "localizedDisplayNames": {
+        "ar": "أذان مصر",
+        "en": "Adhan Egypt",
+        "fa": "اذان مصر",
+        "tr": "Mısır Ezanı"
       }
     },
     {
@@ -419,6 +503,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "5ff959f0871e770a57b69bf218f78692032650de65ac4cdf840aa5ebaed0ae9f"
+      },
+      "localizedDisplayNames": {
+        "ar": "أذان حلب",
+        "en": "Adhan Halab",
+        "fa": "اذان حلب",
+        "tr": "Halep Ezanı"
       }
     },
     {
@@ -446,6 +536,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "65aeffc8f10a44f936fab7fc814334a110dbb1a822910a802c5636b08808abbf"
+      },
+      "localizedDisplayNames": {
+        "ar": "أذان المدينة",
+        "en": "Adhan Madinah",
+        "fa": "اذان مدینه",
+        "tr": "Medine Ezanı"
       }
     },
     {
@@ -473,6 +569,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "ef7af9047e9d1aa0289d422757fb777a00479b878b64f11cdbde827e662dfaa7"
+      },
+      "localizedDisplayNames": {
+        "ar": "أذان مكة",
+        "en": "Adhan Makkah",
+        "fa": "اذان مکه",
+        "tr": "Mekke Ezanı"
       }
     },
     {
@@ -500,6 +602,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "f1d17e71a5e9de2e6477e5b38d41b2b90cdccc4306808b67449258caa5e6f3b4"
+      },
+      "localizedDisplayNames": {
+        "ar": "الحسيني",
+        "en": "Al Hussaini",
+        "fa": "الحسینی",
+        "tr": "Hüseyni"
       }
     },
     {
@@ -527,6 +635,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "1bb7a1bfd7e0b4886a031cb4b0e2047a668ffb56c8f2ffdb40c03772783236aa"
+      },
+      "localizedDisplayNames": {
+        "ar": "حافظ",
+        "en": "Hafez",
+        "fa": "حافظ",
+        "tr": "Hafız"
       }
     },
     {
@@ -554,6 +668,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "c1be429fb0cd98c952f2bde0dbe83b601d6b87a28d57374f5e7c3c88777321ab"
+      },
+      "localizedDisplayNames": {
+        "ar": "حافظ مراد",
+        "en": "Hafiz Murad",
+        "fa": "حافظ مراد",
+        "tr": "Hafız Murad"
       }
     },
     {
@@ -581,6 +701,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "9153082025714abc6f77b56cde44c4802731cab722a7b1be34a045265e240d63"
+      },
+      "localizedDisplayNames": {
+        "ar": "المنشاوي",
+        "en": "Minshawi",
+        "fa": "منشاوی",
+        "tr": "Minşavi"
       }
     },
     {
@@ -608,6 +734,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "351b152300a3226881535424c1208ae13a1d658a8ea30e1c8ccfdfec720f53c8"
+      },
+      "localizedDisplayNames": {
+        "ar": "نقشبندي",
+        "en": "Naghshbandi",
+        "fa": "نقشبندی",
+        "tr": "Nakşibendi"
       }
     },
     {
@@ -635,6 +767,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "63fd13cd0179ac697e04717a443a93d67e425e90389bf58a602eafd802e23b88"
+      },
+      "localizedDisplayNames": {
+        "ar": "صابر",
+        "en": "Saber",
+        "fa": "صابر",
+        "tr": "Saber"
       }
     },
     {
@@ -662,6 +800,12 @@
         "channels": 2,
         "bitsPerSample": 16,
         "sha256": "ddc03257baadd0abdc6a8ab8d40eb4671bd482988b88c522822ff14451ef2706"
+      },
+      "localizedDisplayNames": {
+        "ar": "يوسف إسلام",
+        "en": "Yusuf Islam",
+        "fa": "یوسف اسلام",
+        "tr": "Yusuf İslam"
       }
     }
   ]
