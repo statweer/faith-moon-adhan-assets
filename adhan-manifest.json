@@ -76,9 +76,9 @@
         "sha256": "9f6d5df090a5dcee1fd830f9221f71a75c7211e569915611f9185ac73b3cf812"
       },
       "localizedDisplayNames": {
-        "ar": "قلوش",
+        "ar": "غلوش",
         "en": "Ghalwash",
-        "fa": "قلوش",
+        "fa": "غلوش",
         "tr": "Galvaş"
       }
     },
@@ -307,9 +307,9 @@
         "sha256": "832a6933995033f483fef22628690052d7cdd16fc201139d938b773eaa45cb1d"
       },
       "localizedDisplayNames": {
-        "ar": "توخي",
+        "ar": "طوخي",
         "en": "Tookhi",
-        "fa": "توخی",
+        "fa": "طوخی",
         "tr": "Tuhi"
       }
     },
