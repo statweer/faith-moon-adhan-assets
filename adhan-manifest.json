@@ -1,0 +1,668 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-04T23:43:09+04:00",
+  "basePath": ".",
+  "formats": {
+    "fullAudio": {
+      "container": "m4a",
+      "codec": "aac",
+      "targetBitRate": 64000
+    },
+    "notificationAudio": {
+      "container": "caf",
+      "codec": "pcm_s16le",
+      "sampleRate": 44100,
+      "channels": 2
+    }
+  },
+  "items": [
+    {
+      "id": "shia.aghati",
+      "tradition": "shia",
+      "displayName": "Aghati",
+      "fullAudio": {
+        "path": "shia/aghati.m4a",
+        "durationSeconds": 263.758,
+        "bytes": 2090001,
+        "bitRate": 63391,
+        "codec": "aac",
+        "sampleRate": 22050,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "2d84e675dd2a6b7c56c163ca376ebea1c68f17020e8c3cce476c0ebf0a69c0db"
+      },
+      "notificationAudio": {
+        "path": "notifications/shia/aghati.caf",
+        "durationSeconds": 8.662,
+        "bytes": 1528066,
+        "bitRate": 1411320,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "08dfc689cccfaf25dc35661f2d19f2712f6b9987a1664f6406f6f6ee33d44567"
+      }
+    },
+    {
+      "id": "shia.ghalwash",
+      "tradition": "shia",
+      "displayName": "Ghalwash",
+      "fullAudio": {
+        "path": "shia/ghalwash.m4a",
+        "durationSeconds": 298.815,
+        "bytes": 2429500,
+        "bitRate": 65043,
+        "codec": "aac",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "832ab78dc1970eb68a5d64c6f8f35f60523cf820f9ac3efa8c3463d3cfc18a73"
+      },
+      "notificationAudio": {
+        "path": "notifications/shia/ghalwash.caf",
+        "durationSeconds": 2.973,
+        "bytes": 524502,
+        "bitRate": 1411550,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "9f6d5df090a5dcee1fd830f9221f71a75c7211e569915611f9185ac73b3cf812"
+      }
+    },
+    {
+      "id": "shia.kazem-zadeh",
+      "tradition": "shia",
+      "displayName": "Kazem Zadeh",
+      "fullAudio": {
+        "path": "shia/kazem-zadeh.m4a",
+        "durationSeconds": 326.217,
+        "bytes": 2645920,
+        "bitRate": 64887,
+        "codec": "aac",
+        "sampleRate": 22050,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "7b1ad303d10ff542df78a93876873b5317820149635131fdf29aca49b999ad4f"
+      },
+      "notificationAudio": {
+        "path": "notifications/shia/kazem-zadeh.caf",
+        "durationSeconds": 22.0,
+        "bytes": 3880930,
+        "bitRate": 1411247,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "3ef0c7e89f1e28e83654298da9d494d6c86be8946bcf1e158d6022b955b5edf7"
+      }
+    },
+    {
+      "id": "shia.moazzen-zadeh",
+      "tradition": "shia",
+      "displayName": "Moazzen Zadeh",
+      "fullAudio": {
+        "path": "shia/moazzen-zadeh.m4a",
+        "durationSeconds": 293.303,
+        "bytes": 2362950,
+        "bitRate": 64450,
+        "codec": "aac",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "fbb10f860ba42f4d8937a6da9174a09a5e97d0983486c51a1fb6e2ed32657c00"
+      },
+      "notificationAudio": {
+        "path": "notifications/shia/moazzen-zadeh.caf",
+        "durationSeconds": 12.564,
+        "bytes": 2216478,
+        "bitRate": 1411282,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "93f77cd4573e6a3c935ce888c030a6cfa01d8370824cadd41dfc8d1ef72535b8"
+      }
+    },
+    {
+      "id": "shia.rezaeian",
+      "tradition": "shia",
+      "displayName": "Rezaeian",
+      "fullAudio": {
+        "path": "shia/rezaeian.m4a",
+        "durationSeconds": 270.577,
+        "bytes": 2221812,
+        "bitRate": 65691,
+        "codec": "aac",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "6a18784d423375ce9f27d0cb8db1668ed9647e52be30927ab183354f17e2e244"
+      },
+      "notificationAudio": {
+        "path": "notifications/shia/rezaeian.caf",
+        "durationSeconds": 11.515,
+        "bytes": 2031362,
+        "bitRate": 1411290,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "215175adc4eb42a5d4a426e10d6587bf190a31ca7f38a1e16b44d753472d0a53"
+      }
+    },
+    {
+      "id": "shia.salimi",
+      "tradition": "shia",
+      "displayName": "Salimi",
+      "fullAudio": {
+        "path": "shia/salimi.m4a",
+        "durationSeconds": 272.954,
+        "bytes": 2228691,
+        "bitRate": 65320,
+        "codec": "aac",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "4ba1f281e2dabd89f7fc3600b3ce12ac1bbbb87f291051da09999a4aa64bad3d"
+      },
+      "notificationAudio": {
+        "path": "notifications/shia/salimi.caf",
+        "durationSeconds": 4.087,
+        "bytes": 721006,
+        "bitRate": 1411454,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "8319689e68b095352ba7007ca204a9bf5805a95b3c0baa0992ac08884cdc81b5"
+      }
+    },
+    {
+      "id": "shia.sharif",
+      "tradition": "shia",
+      "displayName": "Sharif",
+      "fullAudio": {
+        "path": "shia/sharif.m4a",
+        "durationSeconds": 243.593,
+        "bytes": 2002486,
+        "bitRate": 65764,
+        "codec": "aac",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "602ece39ad80271530a808d59fd066bfe81a89722c099efdf976593832a018bf"
+      },
+      "notificationAudio": {
+        "path": "notifications/shia/sharif.caf",
+        "durationSeconds": 16.696,
+        "bytes": 2945218,
+        "bitRate": 1411262,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "0ac3a12c2f24d770576073b6083724158fe059a9c419bbe38e1315ab0dc1b291"
+      }
+    },
+    {
+      "id": "shia.sobhdel",
+      "tradition": "shia",
+      "displayName": "Sobhdel",
+      "fullAudio": {
+        "path": "shia/sobhdel.m4a",
+        "durationSeconds": 280.216,
+        "bytes": 2303293,
+        "bitRate": 65757,
+        "codec": "aac",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "9b6bf91a31aa271afe09f826ddc7583455adee5bb205254816180b06d20b6572"
+      },
+      "notificationAudio": {
+        "path": "notifications/shia/sobhdel.caf",
+        "durationSeconds": 7.585,
+        "bytes": 1338206,
+        "bitRate": 1411337,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "e5d306f33bf65ad03a73b1b0577aaf9a6e06a7b7d8d7883060c84a585f5aacff"
+      }
+    },
+    {
+      "id": "shia.tookhi",
+      "tradition": "shia",
+      "displayName": "Tookhi",
+      "fullAudio": {
+        "path": "shia/tookhi.m4a",
+        "durationSeconds": 255.269,
+        "bytes": 2087450,
+        "bitRate": 65419,
+        "codec": "aac",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "da895ccba774623c85a1a96ddb489e1e8769dafa7105e19b03d5f1ec6f20f171"
+      },
+      "notificationAudio": {
+        "path": "notifications/shia/tookhi.caf",
+        "durationSeconds": 4.58,
+        "bytes": 807994,
+        "bitRate": 1411427,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "832a6933995033f483fef22628690052d7cdd16fc201139d938b773eaa45cb1d"
+      }
+    },
+    {
+      "id": "sunni.abdul-basit",
+      "tradition": "sunni",
+      "displayName": "Abdul Basit",
+      "fullAudio": {
+        "path": "sunni/abdul-basit.m4a",
+        "durationSeconds": 187.115,
+        "bytes": 1542314,
+        "bitRate": 65940,
+        "codec": "aac",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "667afdea2f6acdb1463c9adba1272272cc520408f8370315f4b4db8244fb5543"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/abdul-basit.caf",
+        "durationSeconds": 5.0,
+        "bytes": 882130,
+        "bitRate": 1411408,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "d9d95dafe60152cdf05894c305e150185c1f997f73a257fb34f9b6d8236f9285"
+      }
+    },
+    {
+      "id": "sunni.abdul-ghaffar",
+      "tradition": "sunni",
+      "displayName": "Abdul Ghaffar",
+      "fullAudio": {
+        "path": "sunni/abdul-ghaffar.m4a",
+        "durationSeconds": 186.253,
+        "bytes": 1295922,
+        "bitRate": 55662,
+        "codec": "aac",
+        "sampleRate": 11025,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "4ae1b11ead37f7ed218370e1f771fe502c010b13f50ceec55950d5a13bcf01b1"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/abdul-ghaffar.caf",
+        "durationSeconds": 4.055,
+        "bytes": 719416,
+        "bitRate": 1419280,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "6be5c8e3af7de993aa2c7834fdfc6f413732730b60f1316c9ae2d103af2dbbd8"
+      }
+    },
+    {
+      "id": "sunni.abdul-hakam",
+      "tradition": "sunni",
+      "displayName": "Abdul Hakam",
+      "fullAudio": {
+        "path": "sunni/abdul-hakam.m4a",
+        "durationSeconds": 190.067,
+        "bytes": 1324667,
+        "bitRate": 55755,
+        "codec": "aac",
+        "sampleRate": 11025,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "649846d8c25f3e829e0f79bcacce00222f9218575af710d943572d65272f2b2f"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/abdul-hakam.caf",
+        "durationSeconds": 11.0,
+        "bytes": 1940530,
+        "bitRate": 1411294,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "10d18c207730c56da2c61c9456038c5ab033a6173ad2b2983210f018424aff0d"
+      }
+    },
+    {
+      "id": "sunni.adhan-alaqsa",
+      "tradition": "sunni",
+      "displayName": "Adhan Alaqsa",
+      "fullAudio": {
+        "path": "sunni/adhan-alaqsa.m4a",
+        "durationSeconds": 226.368,
+        "bytes": 1829755,
+        "bitRate": 64664,
+        "codec": "aac",
+        "sampleRate": 16000,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "63d44c2b30cc4c640220c4764e72821a3cb538613518a1bc176088ec99a48f94"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/adhan-alaqsa.caf",
+        "durationSeconds": 5.896,
+        "bytes": 1044220,
+        "bitRate": 1416757,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "f2469790a4b794ebf1ce0912b5b939a3b1888801efc5dad8a9d58932c53e030d"
+      }
+    },
+    {
+      "id": "sunni.adhan-egypt",
+      "tradition": "sunni",
+      "displayName": "Adhan Egypt",
+      "fullAudio": {
+        "path": "sunni/adhan-egypt.m4a",
+        "durationSeconds": 182.701,
+        "bytes": 1254700,
+        "bitRate": 54940,
+        "codec": "aac",
+        "sampleRate": 11025,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "c2fbefc8693fe9d9c147c38f323a927319fc0d2414cb528fdffcdc4ef3b54e36"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/adhan-egypt.caf",
+        "durationSeconds": 14.0,
+        "bytes": 2469730,
+        "bitRate": 1411274,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "afd30839beeae8807625f8305d66671f427f79ac9fbcfacc6074af50a3517669"
+      }
+    },
+    {
+      "id": "sunni.adhan-halab",
+      "tradition": "sunni",
+      "displayName": "Adhan Halab",
+      "fullAudio": {
+        "path": "sunni/adhan-halab.m4a",
+        "durationSeconds": 237.864,
+        "bytes": 1928406,
+        "bitRate": 64857,
+        "codec": "aac",
+        "sampleRate": 24000,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "a289aa845f28eb54caa81a561efaab5c44243574832b5f803968efeb01dde698"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/adhan-halab.caf",
+        "durationSeconds": 13.49,
+        "bytes": 2383676,
+        "bitRate": 1413629,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "5ff959f0871e770a57b69bf218f78692032650de65ac4cdf840aa5ebaed0ae9f"
+      }
+    },
+    {
+      "id": "sunni.adhan-madinah",
+      "tradition": "sunni",
+      "displayName": "Adhan Madinah",
+      "fullAudio": {
+        "path": "sunni/adhan-madinah.m4a",
+        "durationSeconds": 202.501,
+        "bytes": 1671029,
+        "bitRate": 66015,
+        "codec": "aac",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "74968b3a870c9bb754b4aff7cf4578956342480b5130ef21e8c3365dac5a98d8"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/adhan-madinah.caf",
+        "durationSeconds": 12.033,
+        "bytes": 2126800,
+        "bitRate": 1413923,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "65aeffc8f10a44f936fab7fc814334a110dbb1a822910a802c5636b08808abbf"
+      }
+    },
+    {
+      "id": "sunni.adhan-makkah",
+      "tradition": "sunni",
+      "displayName": "Adhan Makkah",
+      "fullAudio": {
+        "path": "sunni/adhan-makkah.m4a",
+        "durationSeconds": 201.143,
+        "bytes": 1447451,
+        "bitRate": 57569,
+        "codec": "aac",
+        "sampleRate": 11025,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "73c3d45bdf1692e1adb3bd009c8d5a5346dbac75e61c6e03b6a50af991ff74dc"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/adhan-makkah.caf",
+        "durationSeconds": 11.9,
+        "bytes": 2103236,
+        "bitRate": 1413953,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "ef7af9047e9d1aa0289d422757fb777a00479b878b64f11cdbde827e662dfaa7"
+      }
+    },
+    {
+      "id": "sunni.al-hussaini",
+      "tradition": "sunni",
+      "displayName": "Al Hussaini",
+      "fullAudio": {
+        "path": "sunni/al-hussaini.m4a",
+        "durationSeconds": 196.284,
+        "bytes": 1368969,
+        "bitRate": 55795,
+        "codec": "aac",
+        "sampleRate": 11025,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "63d3daa7eba9c3a2e608fa757a9c64f4955f29101b5e655700fbcf4683fc45d2"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/al-hussaini.caf",
+        "durationSeconds": 4.65,
+        "bytes": 824344,
+        "bitRate": 1418246,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "f1d17e71a5e9de2e6477e5b38d41b2b90cdccc4306808b67449258caa5e6f3b4"
+      }
+    },
+    {
+      "id": "sunni.hafez",
+      "tradition": "sunni",
+      "displayName": "Hafez",
+      "fullAudio": {
+        "path": "sunni/hafez.m4a",
+        "durationSeconds": 186.488,
+        "bytes": 1335865,
+        "bitRate": 57306,
+        "codec": "aac",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "ab591f37f4762c9cdf5461047d77f67a8791f1a30e8cfeeb88de04e2ae2cb2c8"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/hafez.caf",
+        "durationSeconds": 3.452,
+        "bytes": 612972,
+        "bitRate": 1420693,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "1bb7a1bfd7e0b4886a031cb4b0e2047a668ffb56c8f2ffdb40c03772783236aa"
+      }
+    },
+    {
+      "id": "sunni.hafiz-murad",
+      "tradition": "sunni",
+      "displayName": "Hafiz Murad",
+      "fullAudio": {
+        "path": "sunni/hafiz-murad.m4a",
+        "durationSeconds": 101.93,
+        "bytes": 705926,
+        "bitRate": 55404,
+        "codec": "aac",
+        "sampleRate": 11025,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "81eb2f82470fbff18adf026ada1d76f8f3825dfbcfcb54f6518b25b218aba474"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/hafiz-murad.caf",
+        "durationSeconds": 4.46,
+        "bytes": 790852,
+        "bitRate": 1418546,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "c1be429fb0cd98c952f2bde0dbe83b601d6b87a28d57374f5e7c3c88777321ab"
+      }
+    },
+    {
+      "id": "sunni.minshawi",
+      "tradition": "sunni",
+      "displayName": "Minshawi",
+      "fullAudio": {
+        "path": "sunni/minshawi.m4a",
+        "durationSeconds": 234.946,
+        "bytes": 1599874,
+        "bitRate": 54476,
+        "codec": "aac",
+        "sampleRate": 11025,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "29960248d5e0cbd7d80468540ffa6057721c15860a9f40866eac166288a8e2e2"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/minshawi.caf",
+        "durationSeconds": 13.132,
+        "bytes": 2320596,
+        "bitRate": 1413695,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "9153082025714abc6f77b56cde44c4802731cab722a7b1be34a045265e240d63"
+      }
+    },
+    {
+      "id": "sunni.naghshbandi",
+      "tradition": "sunni",
+      "displayName": "Naghshbandi",
+      "fullAudio": {
+        "path": "sunni/naghshbandi.m4a",
+        "durationSeconds": 162.273,
+        "bytes": 1129277,
+        "bitRate": 55672,
+        "codec": "aac",
+        "sampleRate": 11025,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "e456c473458ad117fcaedc116a2201783c2bc774a03eff705cc2eda5fc3571b4"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/naghshbandi.caf",
+        "durationSeconds": 7.875,
+        "bytes": 1393308,
+        "bitRate": 1415360,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "351b152300a3226881535424c1208ae13a1d658a8ea30e1c8ccfdfec720f53c8"
+      }
+    },
+    {
+      "id": "sunni.saber",
+      "tradition": "sunni",
+      "displayName": "Saber",
+      "fullAudio": {
+        "path": "sunni/saber.m4a",
+        "durationSeconds": 148.951,
+        "bytes": 1115357,
+        "bitRate": 59904,
+        "codec": "aac",
+        "sampleRate": 11025,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "46ae1afacaec3fc4c1e4d393c8a03589fc35462cd9062859e779e1ad0b290161"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/saber.caf",
+        "durationSeconds": 4.478,
+        "bytes": 794052,
+        "bitRate": 1418517,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "63fd13cd0179ac697e04717a443a93d67e425e90389bf58a602eafd802e23b88"
+      }
+    },
+    {
+      "id": "sunni.yusuf-islam",
+      "tradition": "sunni",
+      "displayName": "Yusuf Islam",
+      "fullAudio": {
+        "path": "sunni/yusuf-islam.m4a",
+        "durationSeconds": 99.079,
+        "bytes": 813118,
+        "bitRate": 65654,
+        "codec": "aac",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "886e576822432f7e6ca9e595b5a575156f87441896d9b7dbff927c4818d7caef"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/yusuf-islam.caf",
+        "durationSeconds": 9.286,
+        "bytes": 1642148,
+        "bitRate": 1414728,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "ddc03257baadd0abdc6a8ab8d40eb4671bd482988b88c522822ff14451ef2706"
+      }
+    }
+  ]
+}
