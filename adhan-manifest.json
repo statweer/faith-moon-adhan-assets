@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-05T20:23:33+04:00",
+  "generatedAt": "2026-07-05T22:53:00+04:00",
   "basePath": ".",
   "formats": {
     "fullAudio": {
@@ -481,7 +481,7 @@
     {
       "id": "sunni.adhan-dubai",
       "tradition": "sunni",
-      "displayName": "Adhan Dubai Mall",
+      "displayName": "Adhan Dubai",
       "fullAudio": {
         "path": "sunni/adhan-dubai.m4a",
         "durationSeconds": 129.614,
@@ -505,10 +505,10 @@
         "sha256": "3c8fc7ff48439347daf6a6364667790204b3c7becf1c4a3fc942e5af57a0db0b"
       },
       "localizedDisplayNames": {
-        "ar": "أذان دبي مول",
-        "en": "Adhan Dubai Mall",
-        "fa": "اذان دبی مال",
-        "tr": "Dubai Mall Ezanı"
+        "ar": "أذان دبي",
+        "en": "Adhan Dubai",
+        "fa": "اذان دبی",
+        "tr": "Dubai Ezanı"
       }
     },
     {
