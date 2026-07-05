@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-04T23:43:09+04:00",
+  "generatedAt": "2026-07-05T20:23:33+04:00",
   "basePath": ".",
   "formats": {
     "fullAudio": {
@@ -16,6 +16,39 @@
     }
   },
   "items": [
+    {
+      "id": "quran.rabbana",
+      "tradition": "quran",
+      "displayName": "Rabbana",
+      "fullAudio": {
+        "path": "quran/rabbana.m4a",
+        "durationSeconds": 252.761,
+        "bytes": 1983499,
+        "bitRate": 62778,
+        "codec": "aac",
+        "sampleRate": 11025,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "6207d5aaf0a39254dc593793d1484fca1097a8e078e069605a17e03896c74039"
+      },
+      "notificationAudio": {
+        "path": "notifications/quran/rabbana.caf",
+        "durationSeconds": 16.0,
+        "bytes": 2822492,
+        "bitRate": 1411246,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "b8bf7b69d25f12ca63c1d8a02f7eb5bf35673d727574c597dd5f9fae100ca7c0"
+      },
+      "localizedDisplayNames": {
+        "ar": "ربنا",
+        "en": "Rabbana",
+        "fa": "ربنا",
+        "tr": "Rabbana"
+      }
+    },
     {
       "id": "shia.aghati",
       "tradition": "shia",
@@ -443,6 +476,39 @@
         "en": "Adhan Alaqsa",
         "fa": "اذان الاقصی",
         "tr": "Aksa Ezanı"
+      }
+    },
+    {
+      "id": "sunni.adhan-dubai",
+      "tradition": "sunni",
+      "displayName": "Adhan Dubai Mall",
+      "fullAudio": {
+        "path": "sunni/adhan-dubai.m4a",
+        "durationSeconds": 129.614,
+        "bytes": 1059831,
+        "bitRate": 65414,
+        "codec": "aac",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": null,
+        "sha256": "c75a3778e22c8a8133b2e2d6bb632c059639ce9409d21a2b22d35920f6e78795"
+      },
+      "notificationAudio": {
+        "path": "notifications/sunni/adhan-dubai.caf",
+        "durationSeconds": 13.398,
+        "bytes": 2363484,
+        "bitRate": 1411254,
+        "codec": "pcm_s16le",
+        "sampleRate": 44100,
+        "channels": 2,
+        "bitsPerSample": 16,
+        "sha256": "3c8fc7ff48439347daf6a6364667790204b3c7becf1c4a3fc942e5af57a0db0b"
+      },
+      "localizedDisplayNames": {
+        "ar": "أذان دبي مول",
+        "en": "Adhan Dubai Mall",
+        "fa": "اذان دبی مال",
+        "tr": "Dubai Mall Ezanı"
       }
     },
     {
